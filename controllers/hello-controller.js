@@ -6,4 +6,5 @@ const HelloController = (app) => {
         res.send('Welcome to Full Stack Development!')
     })
 }
+
 export default HelloController;
